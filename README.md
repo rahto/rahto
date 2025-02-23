@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahto(ramon)
+- 👋 Hi, I’m @laucius(ramon)
 - 👀 I’m interested in programing in Js and Ts for now
 - 🌱 I’m currently learning Js and Ts for now
 - 💞️ I’m looking to collaborate on idk for now, but in future i want to work with frontend and designs
